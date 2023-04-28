@@ -10,7 +10,7 @@ My name is Nipun Kumar and I am a passionate data science enthusiast who is eage
 * 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/nipun-kumar-411aa288/)
 * ✉️  You can contact me at [nipunkr2003@gmail.com](mailto:nipunkr2003@gmail.com)
 * 🧠  I'm learning Data Science.
-* 🤝  I'm open to collaborating on Projects related to Data Science
+* 🤝  I'm open to collaborating on Projects related to Data Science.
 * ⚡  Along with being a tech nerd I love playing video games a lot.
 
 <a href="https://www.github.com/NipunKumar44" target="_blank" rel="noreferrer"><img
