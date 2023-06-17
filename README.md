@@ -40,8 +40,6 @@ src="https://img.shields.io/github/followers/NipunKumar44?logo=github&style=for-
 
 <a href="http://www.github.com/NipunKumar44"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunKumar44&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/NipunKumar44"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NipunKumar44&bg_color=181824&color=ffffff&line=3382ed&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/NipunKumar44" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKumar44&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
