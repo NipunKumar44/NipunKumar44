@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com">
     <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
   </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/">
