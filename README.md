@@ -12,9 +12,6 @@
   <a href="https://linkedin.com/in/nipun-kumar-411aa288" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
   </a>
-  <a href="https://www.codechef.com/users/nipunkumar2003" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef" height="40" width="50"/>
-  </a>
   <a href="https://codeforces.com/profile/nipunkumar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="50" />
   </a>
