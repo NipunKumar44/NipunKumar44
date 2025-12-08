@@ -10,9 +10,8 @@
 ---
 
 ### 🚀 About Me
-Software Engineer passionate about AI, backend systems and cloud.  
-I build scalable ML pipelines, deploy production models, and experiment with LLMs.  
-Focused on **model deployment, MLOps, cloud computing and distributed systems**.
+Software Engineer skilled in cloud infrastructure, automation, and ETL workflows, with hands-on experience in GCP, Terraform, and Python scripting.
+Passionate about building scalable systems, efficient data pipelines, and integrating AI-driven solutions into real products.
 
 ---
 
@@ -42,7 +41,13 @@ Postgres | MongoDB
 ---
 
 ### 🏆 Certifications
-- **Google Professional Machine Learning Engineer (PMLE)**
+- **GCP Professional Machine Learning Engineer**
+- **GCP Professional Data Engineer**
+- **GCP Generative AI Leader**
+- **GCP Associate Cloud Engineer**
+- **Github Copilot**
+- **Microsoft Azure Fundamentals**
+
 
 ---
 
