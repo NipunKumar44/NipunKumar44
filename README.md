@@ -49,7 +49,7 @@ Postgres | MongoDB
 ---
 
 ### 📫 Reach me at
-📩 nipunkumar44@gmail.com
+📩 nipunkr2003@gmail.com
 
 ---
 
