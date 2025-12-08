@@ -48,14 +48,6 @@ Postgres | MongoDB
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nipunkumar44&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunkumar44&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Reach me at
 📩 nipunkumar44@gmail.com
 
