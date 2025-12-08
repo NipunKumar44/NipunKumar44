@@ -22,8 +22,6 @@ Focused on **model deployment, MLOps, cloud computing and distributed systems**.
 - LLMs, NLP, Vector Search
 - Backend (FastAPI, Springboot, Microservices)
 - Docker, Kubernetes, CI/CD
-- Scalable inference & GPUs
-
 ---
 
 ### 🛠️ Tech Stack
