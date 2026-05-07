@@ -34,14 +34,6 @@ Postgres | MongoDB
 
 ---
 
-### 📌 Featured Projects
-🔹 Fraud Detection using ML  
-🔹 YOLO Object Detection deployed on GCP  
-🔹 Semantic Search with LLM embeddings  
-🔹 Distributed GPU inference for real-time prediction  
-
----
-
 ### 🏆 Certifications
 - **GCP Professional Machine Learning Engineer**
 - **GCP Professional Data Engineer**
